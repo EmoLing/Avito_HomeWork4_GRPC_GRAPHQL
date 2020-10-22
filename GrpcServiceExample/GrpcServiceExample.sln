@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcServiceExample.ReverseService", "GrpcServiceExample.ReverseService\GrpcServiceExample.ReverseService.csproj", "{2C098C77-75CC-48EE-AFEA-7D139C671E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcServiceExample.Consumer", "GrpcServiceExample.Consumer\GrpcServiceExample.Consumer.csproj", "{4F8554C9-23FB-4695-8C91-EEA8698E8B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C098C77-75CC-48EE-AFEA-7D139C671E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C098C77-75CC-48EE-AFEA-7D139C671E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C098C77-75CC-48EE-AFEA-7D139C671E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C098C77-75CC-48EE-AFEA-7D139C671E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8554C9-23FB-4695-8C91-EEA8698E8B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8554C9-23FB-4695-8C91-EEA8698E8B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8554C9-23FB-4695-8C91-EEA8698E8B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8554C9-23FB-4695-8C91-EEA8698E8B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E2F3AA-B8AF-4F19-A2D4-0A899D33CBE7}
+	EndGlobalSection
+EndGlobal
