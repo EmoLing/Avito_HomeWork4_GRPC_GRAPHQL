@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJOyzt5HNCVguiYXV0oeauJd2JRprqghusxON3itoNCJorP6psi5YCzLQVJLCT90XGPX+YWOIu6azrntxZfEJQ==",
+  "success": true,
+  "projectFilePath": "C:\\С#\\testtesttest\\GrpcServiceExample\\GrpcServiceExample.ReverseService\\GrpcServiceExample.ReverseService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\grpc.core\\2.32.0\\grpc.core.2.32.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\grpc.tools\\2.32.0\\grpc.tools.2.32.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
